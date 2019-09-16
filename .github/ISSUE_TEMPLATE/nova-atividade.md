@@ -2,7 +2,7 @@
 name: Nova atividade
 about: Issue para nova atividade a ser realizada pela equipe
 title: Nome da atividade
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
